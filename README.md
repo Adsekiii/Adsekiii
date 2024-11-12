@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian Żurawski also known as Adseki
 - 👀 I’m interested in programming, gaming and creative stuff
-- 🌱 I’m currently learning python, c++ and gdscript for godot
+- 🌱 I’m currently learning c++, SFML and planning on learning OpenGL and Unreal
 - 📫 How to reach me : adrianzurawski@proton.me
 
 <!---
